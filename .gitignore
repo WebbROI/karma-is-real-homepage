@@ -1,0 +1,6 @@
+# local secrets
+.env
+.env.*
+!.env.example
+.dev.vars
+.dev.vars.*
